@@ -1,0 +1,31 @@
+_repo: Pleasure--amp--Profit-in-Bible-Study_36655
+_version: 0.1.0
+alternative_title: Pleasure and Profit in Bible Study
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, Dwight L.
+    - Moody, D. L. (Dwight Lyman)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2011-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Study and teaching'
+title: Pleasure & Profit in Bible Study
+url: http://www.gutenberg.org/ebooks/36655
