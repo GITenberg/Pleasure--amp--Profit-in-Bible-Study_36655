@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8911
     wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36655#Pleasure--amp--Profit-in-Bible-Study
 gutenberg_issued: '2011-07-07'
 gutenberg_type: Text
 identifiers:
